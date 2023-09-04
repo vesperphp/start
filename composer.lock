@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6bc984960c96df7d18df749c96c6151d",
+    "packages": [
+        {
+            "name": "vesperphp/structure",
+            "version": "0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vesperphp/structure.git",
+                "reference": "2573ac45813f4ac7dee0bef62cec22c614f07c4d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vesperphp/structure/zipball/2573ac45813f4ac7dee0bef62cec22c614f07c4d",
+                "reference": "2573ac45813f4ac7dee0bef62cec22c614f07c4d",
+                "shasum": ""
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rik Janssen",
+                    "email": "rik@vesperphp.com"
+                }
+            ],
+            "description": "A simple PHP framework for rapid prototyping.",
+            "keywords": [
+                "framework",
+                "php",
+                "prototype",
+                "vesper"
+            ],
+            "support": {
+                "issues": "https://github.com/vesperphp/structure/issues",
+                "source": "https://github.com/vesperphp/structure/tree/0.1"
+            },
+            "time": "2023-09-04T18:02:15+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

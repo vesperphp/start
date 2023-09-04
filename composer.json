@@ -13,7 +13,7 @@
   ],
   
   "require": {
-    
+    "vesperphp/structure": "0.1"
   },
   
    "autoload": {
@@ -25,7 +25,8 @@
 
   "config": {
     "optimize-autoloader": true,
-    "prefer-stable": false
+    "prefer-stable": false,
+    "minimum-stability": "alpha"
   }
   
 }
