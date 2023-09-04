@@ -1,0 +1,31 @@
+{
+  "name": "vesperphp/start",
+  "type": "project",
+  "description": "A simple PHP framework for rapid prototyping.",
+  "keywords": ["framework", "php", "prototype", "vesper"],
+  "license": "MIT",
+  
+   "authors": [
+      {
+          "name": "Rik Janssen",
+          "email": "rik@vesperphp.com"
+      }
+  ],
+  
+  "require": {
+    
+  },
+  
+   "autoload": {
+    "classmap": [
+      "app/",
+      "vendor/vesperphp/"
+    ]
+  },
+
+  "config": {
+    "optimize-autoloader": true,
+    "prefer-stable": false
+  }
+  
+}
