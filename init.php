@@ -7,3 +7,7 @@ session_start();
  */
 
 require_once ROOTPATH ."/vendor/autoload.php";
+
+// check for requirements:
+    // availability of a homepage
+    // availability if a 404 page
