@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 use App\Debug\Debug;
 
@@ -26,8 +27,15 @@ $a = [
 ];
 
 /**
- * Some settings:
+ * Error handling:
  */
 
- error_reporting(E_ALL);
- ini_set('display_errors','On');
+error_reporting(E_ALL);
+
+ini_set('display_errors','On');
+
+ /**
+  * Strict type:
+  */
+
+
